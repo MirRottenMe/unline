@@ -7,7 +7,7 @@ Before using, we recommend that you read the rules of the service you are going 
 
 The author is not responsible for anything that happens to your account)
 
-#Support author
+# Support author
 Monero | 41fPj5qMKU1SJ4mFVKvbMRWskFWNP1xRjapwvpyfDTkJbvESrjR9jpHRegkTkiwoTcLPD5gw6x8ZmGbMEd3CjM9DNqagHDe
 
 Have a nice day bro)
